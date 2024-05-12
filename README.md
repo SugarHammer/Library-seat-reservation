@@ -17,7 +17,7 @@ Java + SSM（Spring+SpringMVC+Mybatis） + Mysql
 > - 学生管理
 > - 班级管理
 > - 添加阅览室
-> - 选座
+> - 选座，座位管理
 > - 公告管理
 > - 图书推荐
 > - 数据统计
@@ -32,10 +32,25 @@ Java + SSM（Spring+SpringMVC+Mybatis） + Mysql
 
 ### 部分功能演示
 #### 管理员功能
-
+![输入图片说明](photo/1-1%E7%99%BB%E5%BD%95.png)
+![输入图片说明](photo/1-2%E6%B3%A8%E5%86%8C.png)
+![输入图片说明](photo/1-3%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/1-4%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/1-5%E6%95%99%E5%B8%88%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/1-6%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/1-7%E7%8F%AD%E7%BA%A7%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/1-8%E6%B7%BB%E5%8A%A0%E9%98%85%E8%A7%88%E5%AE%A4.png)
+![输入图片说明](photo/1-9%E9%80%89%E5%BA%A7.png)
+![输入图片说明](photo/1-10%E5%85%AC%E5%91%8A%E7%AE%A1%E7%90%86.png)
+![输入图片说明](photo/1-11%E5%9B%BE%E4%B9%A6%E6%8E%A8%E8%8D%90.png)
+![输入图片说明](photo/1-12%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1.png)
 
 #### 用户功能
-
+![输入图片说明](photo/2-1%E5%89%8D%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
+![输入图片说明](photo/2-2%E5%BC%80%E6%94%BE%E6%97%B6%E9%97%B4%E4%BF%A1%E6%81%AF.png)
+![输入图片说明](photo/2-3%E5%BA%A7%E4%BD%8D%E9%A2%84%E7%BA%A6.png)
+![输入图片说明](photo/2-4%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.png)
+![输入图片说明](photo/2-5%E8%AF%BB%E8%80%85%E6%8E%A8%E8%8D%90.png)
 
 ### 环境需求(可免费提供)
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql
