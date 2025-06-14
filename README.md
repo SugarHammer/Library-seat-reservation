@@ -1,4 +1,4 @@
-# 自习室座位预约系统(数据库加VX获取☟)
+# 自习室座位预约系统(文末免费领取☟)
 
 #### 介绍
 自习室(阅览室)座位预约系统（SSM）LibrarySeatSystem
@@ -56,7 +56,7 @@ Java + SSM（Spring+SpringMVC+Mybatis） + Mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql
 
 
-## 有项目修改、安装调试需求 请联系微信
+## 有项目修改、安装调试需求 请联系以下
+![关注免费领](联系.png)
 
-
-## 其他项目定制加微☝☝☝
+## 获取资源扫☝☝☝
